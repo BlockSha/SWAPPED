@@ -89,7 +89,7 @@
     <!-- Bouton Retour à l'accueil -->
     <Button
         android:id="@+id/button_back_home"
-        android:layout_width="1dp"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="Retour à l'accueil"
         android:backgroundTint="#333333"
